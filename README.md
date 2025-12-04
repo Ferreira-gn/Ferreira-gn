@@ -22,8 +22,8 @@ O que começou com a curiosidade de um garoto observando seu pai mechendo nos ar
 
  ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> GitHub Stats
 
-<img height="190em" src="https://github-readme-stats.vercel.app/api?username=ferreira-gn&show=prs_merged_percentage&show_icons=true&hide_title=true&icon_color=2f69af&theme=transparent&text_color=F2F2F2&hide_border=true&title_color=ebecf0&include_all_commits=true"  /> 
-<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ferreira-gn&theme=github_dark&layout=compact&langs_count=6&hide_border=true">
+<img height="190em" src="https://github-readme-stats.vercel.app/api?username=Ferreira-gn&show=prs_merged_percentage&show_icons=true&hide_title=true&icon_color=2f69af&theme=transparent&text_color=F2F2F2&hide_border=true&title_color=ebecf0&include_all_commits=true"  /> 
+<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ferreira-gn&theme=github_dark&layout=compact&langs_count=6&hide_border=true">
 
 <br>
 <br>
